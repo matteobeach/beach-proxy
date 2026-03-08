@@ -1,0 +1,9 @@
+{
+"version": 2,
+"functions": {
+"api/quote.js": {
+"runtime": "nodejs20.x"
+}
+}
+}
+Click "Commit changes".
